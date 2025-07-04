@@ -2,3 +2,6 @@ build
 format.sh
 clean.txt
 ligen.txt
+.DS_Store
+.vscode
+.idea
